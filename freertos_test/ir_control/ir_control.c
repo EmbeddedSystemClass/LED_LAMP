@@ -115,6 +115,12 @@ void TIM1_BRK_TIM15_IRQHandler (void)
     		{
     			ir_address=ir_buffer[0];
     			ir_code=ir_buffer[3];
+
+    			///if(ir_code==KEY_8)
+    			//{
+    				//ir_code=0;
+    			//}
+
         		ir_byte_counter=0;
         		ir_bit_counter=0;
 

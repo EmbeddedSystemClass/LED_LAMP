@@ -53,10 +53,10 @@
 #define KEY_MENU	17
 #define KEY_POWER	9
 
-#define START_MAX	500//1500
-#define START_MIN	333//1000
+#define START_MAX	1500
+#define START_MIN	1000
 
-#define BIT0_MAX	50//150
+#define BIT0_MAX	150
 void IR_Control_Init(void);//инициализация IR управления пультом
 void IR_Process( void *pvParameters );
 #endif

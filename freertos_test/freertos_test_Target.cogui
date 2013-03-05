@@ -480,15 +480,14 @@
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/PROJECTS/GIT_REPOSITORY/STM32/LED_LAMP/freertos_test/main.c" title="main.c" tooltip="D:/PROJECTS/GIT_REPOSITORY/STM32/LED_LAMP/freertos_test/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/freertos_test_Target/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="107" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="383" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="ir_control.c" partName="ir_control.c" path="D:/PROJECTS/GIT_REPOSITORY/STM32/LED_LAMP/freertos_test/ir_control/ir_control.c" title="ir_control.c" tooltip="D:/PROJECTS/GIT_REPOSITORY/STM32/LED_LAMP/freertos_test/ir_control/ir_control.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/freertos_test_Target/ir_control/ir_control.c"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="679" selectionTopPixel="4985"/>
 </editor>
 <editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
-<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
-<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="0" verticalPosition="0"/>
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="0" verticalPosition="0"/>
 </input>
 </editor>
 </editors>

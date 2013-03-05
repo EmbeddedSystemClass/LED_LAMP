@@ -176,8 +176,8 @@
     <File name="FreeRTOSV7.1.0/Source/include/FreeRTOS.h" path="FreeRTOSV7.1.0/Source/include/FreeRTOS.h" type="1"/>
     <File name="cmsis_boot/stm32f10x.h" path="cmsis_boot/stm32f10x.h" type="1"/>
     <File name="stm_lib/inc/stm32f10x_dac.h" path="stm_lib/inc/stm32f10x_dac.h" type="1"/>
-    <File name="cmsis_boot/stm32f10x_conf.h" path="cmsis_boot/stm32f10x_conf.h" type="1"/>
     <File name="ir_control/ir_control.h" path="ir_control/ir_control.h" type="1"/>
+    <File name="cmsis_boot/stm32f10x_conf.h" path="cmsis_boot/stm32f10x_conf.h" type="1"/>
     <File name="stm_lib/src/stm32f10x_dac.c" path="stm_lib/src/stm32f10x_dac.c" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/portable/MemMang/heap_1.c" path="FreeRTOSV7.1.0/Source/portable/MemMang/heap_1.c" type="1"/>
     <File name="stm_lib/inc/stm32f10x_flash.h" path="stm_lib/inc/stm32f10x_flash.h" type="1"/>
@@ -205,8 +205,8 @@
     <File name="cmsis/core_cm3.h" path="cmsis/core_cm3.h" type="1"/>
     <File name="PWM/PWM.h" path="PWM/PWM.h" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/list.c" path="FreeRTOSV7.1.0/Source/list.c" type="1"/>
-    <File name="stm_lib/src/stm32f10x_rcc.c" path="stm_lib/src/stm32f10x_rcc.c" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/portable/MemMang/heap_2.c" path="FreeRTOSV7.1.0/Source/portable/MemMang/heap_2.c" type="1"/>
+    <File name="stm_lib/src/stm32f10x_rcc.c" path="stm_lib/src/stm32f10x_rcc.c" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/queue.c" path="FreeRTOSV7.1.0/Source/queue.c" type="1"/>
     <File name="ir_control" path="" type="2"/>
     <File name="FreeRTOSV7.1.0/Source/portable/ARM_CM3" path="" type="2"/>
@@ -218,8 +218,8 @@
     <File name="FreeRTOSV7.1.0/Source/include" path="" type="2"/>
     <File name="FreeRTOSV7.1.0/Source/include/mpu_wrappers.h" path="FreeRTOSV7.1.0/Source/include/mpu_wrappers.h" type="1"/>
     <File name="PWM/PWM.c" path="PWM/PWM.c" type="1"/>
-    <File name="stm_lib/inc/stm32f10x_adc.h" path="stm_lib/inc/stm32f10x_adc.h" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/portable/ARM_CM3/port.c" path="FreeRTOSV7.1.0/Source/portable/ARM_CM3/port.c" type="1"/>
+    <File name="stm_lib/inc/stm32f10x_adc.h" path="stm_lib/inc/stm32f10x_adc.h" type="1"/>
     <File name="cmsis_boot/system_stm32f10x.h" path="cmsis_boot/system_stm32f10x.h" type="1"/>
     <File name="stm_lib/inc/stm32f10x_rcc.h" path="stm_lib/inc/stm32f10x_rcc.h" type="1"/>
     <File name="syscalls" path="" type="2"/>
@@ -227,9 +227,9 @@
     <File name="FreeRTOSV7.1.0/Source/portable/MemMang/heap_3.c" path="FreeRTOSV7.1.0/Source/portable/MemMang/heap_3.c" type="1"/>
     <File name="FreeRTOSV7.1.0/Source" path="" type="2"/>
     <File name="FreeRTOSV7.1.0/Source/include/queue.h" path="FreeRTOSV7.1.0/Source/include/queue.h" type="1"/>
-    <File name="FreeRTOSV7.1.0/Source/portable/ARM_CM3/portmacro.h" path="FreeRTOSV7.1.0/Source/portable/ARM_CM3/portmacro.h" type="1"/>
-    <File name="stm_lib/inc" path="" type="2"/>
     <File name="FreeRTOSConfig.h" path="FreeRTOSConfig.h" type="1"/>
+    <File name="stm_lib/inc" path="" type="2"/>
+    <File name="FreeRTOSV7.1.0/Source/portable/ARM_CM3/portmacro.h" path="FreeRTOSV7.1.0/Source/portable/ARM_CM3/portmacro.h" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/include/StackMacros.h" path="FreeRTOSV7.1.0/Source/include/StackMacros.h" type="1"/>
     <File name="main.c" path="main.c" type="1"/>
     <File name="FreeRTOSV7.1.0/Source/include/semphr.h" path="FreeRTOSV7.1.0/Source/include/semphr.h" type="1"/>

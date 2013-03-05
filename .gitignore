@@ -1,0 +1,10 @@
+*.dll
+*.elf
+*.hex
+*.o
+*.map
+*.bak
+*.txt
+*.bin
+*.log
+

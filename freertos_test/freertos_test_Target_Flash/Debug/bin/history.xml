@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.5.1 -mcpu=cortex-m3 -mthumb -Wl -nostartfiles -g -Map=freertos_test_Target_Flash.map -O0 --gc-sections -lgcc -lc -lm -LC:\Program Files\CooCox\CoIDE\workspace\freertos_test_Target_Flash -TC:\Program Files\CooCox\CoIDE\workspace\freertos_test_Target_Flash/link.ld -g -LC:\Program Files\CooCox\CoIDE\gcc\Sourcery G++ Lite\arm-none-eabi\lib\thumb2 -lm">
+      <target file="freertos_test_Target_Flash.elf" lastModified="13bd5e41be1">
+         <source file="C:\Program Files\CooCox\CoIDE\gcc\Sourcery G++ Lite\arm-none-eabi\lib\thumb2\libm.a" lastModified="12c19b36500"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="13bd5e3f6e5"/>
+         <source file="..\obj\startup_stm32f10x_md_vl.o" lastModified="13bd5e3f7b0"/>
+         <source file="..\obj\core_cm3.o" lastModified="13bd5e3f87b"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="13bd5e40193"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="13bd5e4028d"/>
+         <source file="..\obj\vibration.o" lastModified="13bd5e40377"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="13bd5e40462"/>
+         <source file="..\obj\main.o" lastModified="13bd5e405c9"/>
+         <source file="..\obj\timers.o" lastModified="13bd5e406f2"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="13bd5e408e6"/>
+         <source file="..\obj\tasks.o" lastModified="13bd5e40ada"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="13bd5e40bf3"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="13bd5e40cfd"/>
+         <source file="..\obj\ir_control.o" lastModified="13bd5e40df7"/>
+         <source file="..\obj\led_effects.o" lastModified="13bd5e40f3f"/>
+         <source file="..\obj\list.o" lastModified="13bd5e41039"/>
+         <source file="..\obj\syscalls.o" lastModified="13bd5e41133"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="13bd5e4125c"/>
+         <source file="..\obj\port.o" lastModified="13bd5e41346"/>
+         <source file="..\obj\queue.o" lastModified="13bd5e4146f"/>
+         <source file="..\obj\croutine.o" lastModified="13bd5e41569"/>
+         <source file="..\obj\misc.o" lastModified="13bd5e41644"/>
+         <source file="..\obj\heap_2.o" lastModified="13bd5e4173e"/>
+         <source file="..\obj\PWM.o" lastModified="13bd5e41867"/>
+      </target>
+   </processor>
+</history>

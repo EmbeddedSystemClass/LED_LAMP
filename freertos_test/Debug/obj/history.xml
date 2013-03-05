@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -O0 -g -c -DSTM32F10X_MD_VL -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -DSTM32F100RB -I. -Icmsis -Istm_lib -Istm_lib\inc -Icmsis_boot -IFreeRTOSV7.1.0\Source -IFreeRTOSV7.1.0\Source\include -IFreeRTOSV7.1.0\Source\portable\ARM_CM3 -IFreeRTOSV7.1.0\Source\portable\MemMang -Iemcu_driver -Ilcd_menu -Iuso -ICoX -ICoX\CoX_Peripheral -ICoX\CoX_Peripheral\inc">
+      <target file="menu.o" lastModified="13ab1050226">
+         <source file="..\..\lcd_menu\menu.c" lastModified="136ab3232fa"/>
+      </target>
+      <target file="channels.o" lastModified="13ab105104f">
+         <source file="..\..\uso\channels.c" lastModified="138e1b84364"/>
+      </target>
+      <target file="tasks.o" lastModified="13ab104fbec">
+         <source file="..\..\FreeRTOSV7.1.0\Source\tasks.c" lastModified="13438131dbe"/>
+      </target>
+      <target file="startup_coide.o" lastModified="13ab104e845">
+         <source file="..\..\startup_coide.c" lastModified="13a4ecbe558"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="13ab104f9c9">
+         <source file="..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="136813ead3b"/>
+      </target>
+      <target file="core_cm3.o" lastModified="13ab104ec8b">
+         <source file="..\..\cmsis\core_cm3.c" lastModified="136813e9732"/>
+      </target>
+      <target file="proto.o" lastModified="13ab104f19b">
+         <source file="..\..\uso\proto.c" lastModified="138e1b92855"/>
+      </target>
+      <target file="dol.o" lastModified="13ab1050d90">
+         <source file="..\..\uso\dol.c" lastModified="138e1deca8c"/>
+      </target>
+      <target file="croutine.o" lastModified="13ab1050c67">
+         <source file="..\..\FreeRTOSV7.1.0\Source\croutine.c" lastModified="13438131cf3"/>
+      </target>
+      <target file="hd44780_emcu.o" lastModified="13ab105131e">
+         <source file="..\..\emcu_driver\hd44780_emcu.c" lastModified="1369b5a38f6"/>
+      </target>
+      <target file="printf.o" lastModified="13ab104f881">
+         <source file="..\..\stdio\printf.c" lastModified="1369bbf13ee"/>
+      </target>
+      <target file="misc.o" lastModified="13ab1051168">
+         <source file="..\..\stm_lib\src\misc.c" lastModified="136813eceec"/>
+      </target>
+      <target file="frequency.o" lastModified="13ab1050ee7">
+         <source file="..\..\uso\frequency.c" lastModified="13a4a4968b3"/>
+      </target>
+      <target file="heap_2.o" lastModified="13ab1051495">
+         <source file="..\..\FreeRTOSV7.1.0\Source\portable\MemMang\heap_2.c" lastModified="13438131d70"/>
+      </target>
+      <target file="queue.o" lastModified="13ab1050811">
+         <source file="..\..\FreeRTOSV7.1.0\Source\queue.c" lastModified="13438131dae"/>
+      </target>
+      <target file="stm32f10x_flash.o" lastModified="13ab105064c">
+         <source file="..\..\stm_lib\src\stm32f10x_flash.c" lastModified="136b9d67c61"/>
+      </target>
+      <target file="list.o" lastModified="13ab10503ac">
+         <source file="..\..\FreeRTOSV7.1.0\Source\list.c" lastModified="13438131cf3"/>
+      </target>
+      <target file="port.o" lastModified="13ab10509b7">
+         <source file="..\..\FreeRTOSV7.1.0\Source\portable\ARM_CM3\port.c" lastModified="13438131d12"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="13ab104f40c">
+         <source file="..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="136813ea982"/>
+      </target>
+      <target file="timers.o" lastModified="13ab104f70a">
+         <source file="..\..\FreeRTOSV7.1.0\Source\timers.c" lastModified="13438131dce"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="13ab104f276">
+         <source file="..\..\cmsis_boot\system_stm32f10x.c" lastModified="136813eaaf9"/>
+      </target>
+      <target file="syscalls.o" lastModified="13ab10504f5">
+         <source file="..\..\syscalls\syscalls.c" lastModified="1369bbf146b"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="13ab104eaa6">
+         <source file="..\..\stm_lib\src\stm32f10x_tim.c" lastModified="136813eb8a5"/>
+      </target>
+      <target file="startup_stm32f10x_md_vl.o" lastModified="13ab104eb91">
+         <source file="..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="1368163ceb9"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="13ab104fd44">
+         <source file="..\..\stm_lib\src\stm32f10x_usart.c" lastModified="136a0ecda01"/>
+      </target>
+      <target file="main.o" lastModified="13ab104f5c2">
+         <source file="..\..\main.c" lastModified="13ab103c744"/>
+      </target>
+   </processor>
+</history>

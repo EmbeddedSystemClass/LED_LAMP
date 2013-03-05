@@ -191,7 +191,6 @@
     <File name="FreeRTOSV7.1.0/Source/portable" path="" type="2"/>
     <File name="FreeRTOSV7.1.0/Source/timers.c" path="FreeRTOSV7.1.0/Source/timers.c" type="1"/>
     <File name="vibration" path="" type="2"/>
-    <File name="stdio/printf.c" path="stdio/printf.c" type="1"/>
     <File name="ir_control/ir_control.c" path="ir_control/ir_control.c" type="1"/>
     <File name="stm_lib/src/stm32f10x_gpio.c" path="stm_lib/src/stm32f10x_gpio.c" type="1"/>
     <File name="stm_lib/inc/stm32f10x_gpio.h" path="stm_lib/inc/stm32f10x_gpio.h" type="1"/>
@@ -200,7 +199,6 @@
     <File name="FreeRTOSV7.1.0/Source/include/list.h" path="FreeRTOSV7.1.0/Source/include/list.h" type="1"/>
     <File name="FreeRTOSV7.1.0" path="" type="2"/>
     <File name="cmsis_boot/system_stm32f10x.c" path="cmsis_boot/system_stm32f10x.c" type="1"/>
-    <File name="stdio" path="" type="2"/>
     <File name="stm_lib/inc/misc.h" path="stm_lib/inc/misc.h" type="1"/>
     <File name="cmsis/core_cm3.h" path="cmsis/core_cm3.h" type="1"/>
     <File name="PWM/PWM.h" path="PWM/PWM.h" type="1"/>

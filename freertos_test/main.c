@@ -5,7 +5,6 @@
 
 #include <misc.h>
 
-#include <stdio.h>
 
 //Инклуды от FreeRTOS:
 

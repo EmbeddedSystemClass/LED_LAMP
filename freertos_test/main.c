@@ -26,10 +26,10 @@ int main(void)
 {
 	SystemInit();
 
-	PWM_Init();
-	IR_Control_Init();
-	Vibration_Init();
-	Effects_Init();
+	PWM_Init();//инициализация шим
+	IR_Control_Init();//инициализация ик управления
+	Vibration_Init();//инициализация вибродатчика
+	Effects_Init();//инициализация световых эффектов
 
     vTaskStartScheduler();
 
